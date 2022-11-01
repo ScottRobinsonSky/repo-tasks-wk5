@@ -1,0 +1,3 @@
+[submodule "d1/extension"]
+	path = d1/extension
+	url = git@github.com:ScottRobinsonSky/sql-extension-wk5-d1.git
